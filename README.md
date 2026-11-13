@@ -1,19 +1,40 @@
-# theoros-space/.github
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/github-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/github-light.png">
+  <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/github-light.png" width="100%" alt="theoros-space/.github">
+</picture>
 
-Organisation-wide defaults for every Theoros repository. A file in an
-individual repository always overrides the default here.
+<p><a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-3E7BFA?style=flat-square&labelColor=11151C" alt="license: CC BY 4.0"></a></p>
+
+## Overview
+
+Organisation-wide defaults for every Theoros repository. GitHub uses a file
+here whenever a repository does not have its own.
 
 | Path | Purpose |
 |---|---|
-| `profile/README.md` | Public organisation profile on github.com/theoros-space |
-| `CONTRIBUTING.md` | Branches, commits, reviews and releases |
-| `CLA.md` | Contributor License Agreement for outside contributions |
-| `CODE_OF_CONDUCT.md` | Expected behaviour |
-| `SECURITY.md` | How to report a vulnerability |
-| `SUPPORT.md` | Where to ask for help |
-| `LICENSING.md` | Which license applies to which repository |
-| `.github/ISSUE_TEMPLATE/` | Bug, feature and requirement forms |
-| `.github/PULL_REQUEST_TEMPLATE.md` | Pull request checklist |
+| [`profile/README.md`](profile/README.md) | The public profile on [github.com/theoros-space](https://github.com/theoros-space) |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Branches, commits, reviews and releases |
+| [`CLA.md`](CLA.md) | Contributor License Agreement for outside contributions |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Expected behaviour |
+| [`SECURITY.md`](SECURITY.md) | How to report a vulnerability |
+| [`SUPPORT.md`](SUPPORT.md) | Where to ask for help |
+| [`LICENSING.md`](LICENSING.md) | Which license applies to which repository |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Bug, feature and requirement forms |
+| [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) | Pull request checklist |
 
-The text in this repository is licensed under CC BY 4.0. The Theoros name
-and logo are not; see [theoros-brand](https://github.com/theoros-space/theoros-brand).
+## License
+
+The text in this repository is licensed under [CC BY 4.0](LICENSE). The Theoros
+name and logo are not; see [theoros-brand](https://github.com/theoros-space/theoros-brand).
+
+---
+
+<p align="center">
+  <a href="https://github.com/theoros-space"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-paper.svg">
+    <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-ink.svg" width="28" alt="Theoros">
+  </picture></a>
+  <br>
+  <sub>Theoros &nbsp;·&nbsp; Onboard AI for Earth observation &nbsp;·&nbsp; Baku and Helsinki &nbsp;·&nbsp; <a href="https://theoros.space">theoros.space</a></sub>
+</p>
