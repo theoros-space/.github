@@ -5,9 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://theoros.space"><img src="https://img.shields.io/badge/web-theoros.space-FF4B1F?style=flat-square&labelColor=11151C" alt="theoros.space"></a>
-  <img src="https://img.shields.io/badge/status-pre--release-8B929D?style=flat-square&labelColor=11151C" alt="status: pre-release">
-  <img src="https://img.shields.io/badge/based%20in-Baku%20and%20Helsinki-3E7BFA?style=flat-square&labelColor=11151C" alt="Baku and Helsinki">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/status-pre-release-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/status-pre-release-light.png" height="31" alt="status: pre-release"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/flight-budget-under-1-mib-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/flight-budget-under-1-mib-light.png" height="31" alt="flight budget: under 1 MiB"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/signed-ed25519-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/signed-ed25519-light.png" height="31" alt="signed: Ed25519"></picture>
 </p>
 
 Earth observation satellites collect far more data than they can send home.
