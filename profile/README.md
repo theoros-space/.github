@@ -55,7 +55,8 @@ Source code lands in these repositories from December 2026.
 
 | Repositories | License |
 |---|---|
-| models, edge, delivery, ground | Theoros Source-Available 1.0: read and evaluate, talk to us before any other use |
+| models | Theoros Open License 1.0: open source, code and trained weights |
+| edge, delivery, ground | Theoros Source-Available 1.0: read and evaluate, talk to us before any other use |
 | bench | Apache-2.0 |
 | docs, .github | CC BY 4.0 |
 | brand | Brand terms |
