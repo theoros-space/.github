@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/org-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/org-light.png">
-  <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/org-light.png" width="100%" alt="Theoros: onboard AI for Earth observation satellites">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/profile/profile-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/profile/profile-light.png">
+  <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/profile/profile-light.png" width="100%" alt="Theoros: onboard AI for Earth observation satellites">
 </picture>
 
 <p align="center">
