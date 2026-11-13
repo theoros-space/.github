@@ -1,0 +1,42 @@
+name: Bug report
+description: Something does not work as expected.
+labels: ["type: bug", "status: triage"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Describe the problem and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - "S1: blocks flight or customer delivery"
+        - "S2: major function degraded"
+        - "S3: minor, workaround exists"
+        - "S4: cosmetic"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or output
+      render: shell

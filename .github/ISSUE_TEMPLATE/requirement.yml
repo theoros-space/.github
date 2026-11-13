@@ -1,0 +1,29 @@
+name: Requirement
+description: Add or change a traceable requirement.
+labels: ["type: requirement"]
+body:
+  - type: input
+    id: reqid
+    attributes:
+      label: Requirement ID
+      placeholder: EDGE-REQ-000
+    validations:
+      required: true
+  - type: textarea
+    id: statement
+    attributes:
+      label: Requirement statement
+      description: One testable "shall" statement.
+    validations:
+      required: true
+  - type: dropdown
+    id: verification
+    attributes:
+      label: Verification method
+      options: ["Test", "Analysis", "Inspection", "Review of design"]
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
